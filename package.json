@@ -1,0 +1,23 @@
+{
+  "name": "hina-cloud-react-native",
+  "version": "1.0.0",
+  "private": false,
+  "description": "海纳嗨数 RN 组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hina",
+    "hinacloud",
+    "海纳",
+    "海纳嗨数"
+  ],
+  "author": "hina",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dequal/react-native-hina-cloud.git"
+  },
+   "homepage": "https://github.com/dequal/react-native-hina-cloud.git"
+}
